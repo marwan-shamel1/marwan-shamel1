@@ -12,6 +12,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marwan-shamel1&theme=github_dark" alt="Profile Summary Card"/>
 </p>
 ---
+
 ### 👨‍💻 About Me:
 - Hello I’m [Marwan Shamel](https://www.linkedin.com/in/marwan-shamel/)
 - 🎓 Graduated from faculty of computers and artificial intelligence**AI for real-world applications**
