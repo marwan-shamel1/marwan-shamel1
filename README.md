@@ -7,6 +7,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F60C52&center=true&vCenter=true&width=435&lines=Deep+Learning+Developer;VTON+%7C+Computer+Vision+Specialist;Mentor+%26+AI+Educator" alt="Typing SVG" />
 </p>
 
+---
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marwan-shamel1&theme=github_dark" alt="Profile Summary Card"/>
+</p>
+---
 ### 👨‍💻 About Me:
 - Hello I’m [Marwan Shamel](https://www.linkedin.com/in/marwan-shamel/)
 - 🎓 Graduated from faculty of computers and artificial intelligence**AI for real-world applications**
@@ -94,7 +99,5 @@
 - 🌐 [Portfolio Website](https://marwan-shamel1.github.io/my-portofolio/)
 
 ---
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marwan-shamel1&theme=github_dark" alt="Profile Summary Card"/>
-</p>
+
 
