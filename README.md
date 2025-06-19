@@ -1,6 +1,6 @@
 # marwan_shamel
 <h1 align="center">Hi 👋, I'm Marwan Shamel</h1>
-<h3 align="center">Machine Learning Engineer | Educator | Open Source Enthusiast</h3>
+<h3 align="center">Machine Learning Engineer | Educator | Instructor</h3>
 
 ---
 <p align="center">
