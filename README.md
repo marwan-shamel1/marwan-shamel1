@@ -79,6 +79,14 @@
 | [ML Dashboard App](https://github.com/yourusername/project3) | Streamlit-based ML app |
 
 ---
+## 🏆 Achievements
+
+- 🥇 Finalist @ Rowad Misr – AWS SageMaker Project  
+- 🧑‍🏫 Taught 100+ students across Zaka, IEEE, and DEMI  
+- 🧪 Trained advanced ML models on VITON-HD with Google Colab Pro  
+- 🛠 Developed end-to-end systems with Python & Flask/Streamlit
+
+---
 
 ### 📫 Contact Me
 - 📧 Email: [Marwan Shamel](maroshamel67@gmail.com)  
