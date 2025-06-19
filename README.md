@@ -34,8 +34,8 @@
 ---
 
 ### 📫 Contact Me
-- 📧 Email: [your.email@gmail.com](mailto:your.email@gmail.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
+- 📧 Email: [Marwan Shamel](maroshamel67@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/marwan-shamel/)  
 - 🌐 [Portfolio Website](https://marwan-shamel1.github.io/my-portofolio/)
 
 ---
