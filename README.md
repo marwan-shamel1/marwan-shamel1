@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me:
 - Hello I’m [Marwan Shamel](https://www.linkedin.com/in/marwan-shamel/)
-- 🎓 Graduated from faculty of computers and artificial intelligence**AI for real-world applications**
+- 🎓 Graduated from faculty of computers and artificial intelligence
 - 👨‍🏫 Mentor & Coordinator in AI programs (IEEE, Almentor, Zaka, Ischool)
 - 🌱 Trying to learn new technologies and try to keep myself updated
 - 🧠 Passionate about building deep learning applications
