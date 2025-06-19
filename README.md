@@ -5,10 +5,12 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🎓 Final-year Computer Engineering Student  
+- Hello I’m [Marwan Shamel](https://www.linkedin.com/in/marwan-shamel/)
+- 🎓 Graduated from faculty of computers and artificial intelligence
+- 🌱 Trying to learn new technologies and try to keep myself updated
 - 🧠 Passionate about building deep learning applications  
-- 👨‍🏫 Experienced in mentoring through IEEE, Zaka, and Almentor  
-- 🚀 Currently working on a Virtual Try-On System using LaDI-VTON & IDM-VTON
+- 👨‍🏫 Experienced in mentoring through IEEE, Zaka, Almentor and Ischool  
+- 👨🏻‍💻 Currently developing myself as ML Developer 
 
 ---
 
@@ -34,7 +36,7 @@
 ### 📫 Contact Me
 - 📧 Email: [your.email@gmail.com](mailto:your.email@gmail.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 🌐 [Portfolio Website (optional)](https://marwan-shamel.github.io)
+- 🌐 [Portfolio Website]([https://marwan-shamel.github.io](https://marwan-shamel1.github.io/my-portofolio/))
 
 ---
 
