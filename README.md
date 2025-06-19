@@ -36,7 +36,7 @@
 ### 📫 Contact Me
 - 📧 Email: [your.email@gmail.com](mailto:your.email@gmail.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 🌐 [Portfolio Website]([https://marwan-shamel.github.io](https://marwan-shamel1.github.io/my-portofolio/))
+- 🌐 [Portfolio Website](https://marwan-shamel1.github.io/my-portofolio/)
 
 ---
 
