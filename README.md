@@ -25,7 +25,8 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
-## 👨‍🔬 My IDM-VTON Project Tools
+## 👨‍🔬 My IDM-VTON Project Tools 
+(Graduation project)
 > Used in training, inference, interface, and data processing
 
 ### 🧱 Core ML Frameworks
@@ -67,4 +68,8 @@
 - 🌐 [Portfolio Website](https://marwan-shamel1.github.io/my-portofolio/)
 
 ---
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
+</p>
