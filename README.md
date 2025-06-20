@@ -4,7 +4,7 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F60C52&center=true&vCenter=true&width=435&lines=Deep+Learning+Developer;VTON+%7C+Computer+Vision+Specialist;Mentor+%26+AI+Educator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F60C52&center=true&vCenter=true&width=435&lines=Deep+Learning+Developer;Computer+Vision+Specialist;Mentor+%26+AI+Educator" alt="Typing SVG" />
 </p>
 
 ---
