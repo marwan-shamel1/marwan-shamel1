@@ -8,9 +8,11 @@
 </p>
 
 ---
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marwan-shamel1&theme=github_dark" alt="Profile Summary Card"/>
 </p>
+
 ---
 
 ### 👨‍💻 About Me:
@@ -95,7 +97,8 @@
 ---
 
 ### 📫 Contact Me
-- 📧 Email: [Marwan Shamel](maroshamel67@gmail.com)  
+- 📧 Email: [Marwan Shamel](maroshamel67@gmail.com)
+- 💬 **WhatsApp**: [+201154673711] 
 - 💼 [LinkedIn](https://www.linkedin.com/in/marwan-shamel/)  
 - 🌐 [Portfolio Website](https://marwan-shamel1.github.io/my-portofolio/)
 
