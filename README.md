@@ -98,10 +98,15 @@
 
 ### 📫 Contact Me
 - 📧 Email: [Marwan Shamel](maroshamel67@gmail.com)
-- 💬 **WhatsApp**: [+201154673711] 
+- 📞 **WhatsApp**: [+201154673711] 
 - 💼 [LinkedIn](https://www.linkedin.com/in/marwan-shamel/)  
 - 🌐 [Portfolio Website](https://marwan-shamel1.github.io/my-portofolio/)
 
 ---
+
+📄 [Download Resume](https://drive.usercontent.google.com/download?id=1KmR0U9slhDpJn-g_6gs2Hy-GFiKEb2wa&export=download&authuser=0&confirm=t&uuid=020c545e-52ad-4de0-8439-9cf75818d73d&at=AN8xHop865QqE-YTc-lUYRaNDs6S:1750413370265)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=marwan-shamel1&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 
