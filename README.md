@@ -3,6 +3,11 @@
 <h3 align="center">Machine Learning Engineer | Educator | Instructor</h3>
 
 ---
+
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/116935697/361184097-b684bb74-db1c-4590-94ac-094ae01d1580.gif" width="500" alt="demo gif"/>
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F60C52&center=true&vCenter=true&width=435&lines=Deep+Learning+Developer;Computer+Vision+Specialist;Mentor+%26+AI+Educator" alt="Typing SVG" />
 </p>
