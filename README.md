@@ -104,13 +104,6 @@
 
 ---
 
-## ✨ My GitHub Highlights
-
-![Summary](https://raw.githubusercontent.com/marwan-shamel1/marwan-shamel1/main/profile-summary-cards-output/dark/0-profile-details.svg)
-
-![Languages](https://raw.githubusercontent.com/marwan-shamel1/marwan-shamel1/main/profile-summary-cards-output/dark/1-repos-per-language.svg)
-
-![Contributions](https://raw.githubusercontent.com/marwan-shamel1/marwan-shamel1/main/profile-summary-cards-output/dark/3-stats.svg)
 
 
 ### 📫 Contact Me
