@@ -1,3 +1,6 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+
+
 # marwan_shamel
 <h1 align="center">Hi 👋, I'm Marwan Shamel</h1>
 <h3 align="center">Machine Learning Engineer | Educator | Instructor</h3>
@@ -100,6 +103,15 @@
 - 🛠 Developed end-to-end systems with Python & Flask/Streamlit
 
 ---
+
+## ✨ My GitHub Highlights
+
+![Summary](https://raw.githubusercontent.com/marwan-shamel1/marwan-shamel1/main/profile-summary-cards-output/dark/0-profile-details.svg)
+
+![Languages](https://raw.githubusercontent.com/marwan-shamel1/marwan-shamel1/main/profile-summary-cards-output/dark/1-repos-per-language.svg)
+
+![Contributions](https://raw.githubusercontent.com/marwan-shamel1/marwan-shamel1/main/profile-summary-cards-output/dark/3-stats.svg)
+
 
 ### 📫 Contact Me
 - 📧 Email: [Marwan Shamel](maroshamel67@gmail.com)
